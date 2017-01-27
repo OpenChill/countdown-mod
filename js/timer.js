@@ -1,4 +1,4 @@
-var end = new Date('01/23/2017 10:0 AM');
+var end = new Date('03/30/2017 11:0 AM'); //You select which date you'd like the timer to countdown to - CM
 
     var _second = 1000;
     var _minute = _second * 60;
